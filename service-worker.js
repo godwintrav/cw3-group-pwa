@@ -2,7 +2,7 @@ var cacheName = 'cw-cache';
 var cacheFiles = [
     'index.html',
     'pwa.webmanifest',
-    'icon-512x512.png',
+    'icon-512x512.pn',
     'icon-192x192.png'
 ];
 
