@@ -3,7 +3,9 @@ var cacheFiles = [
     'index.html',
     'pwa.webmanifest',
     'icon-512x512.png',
-    'icon-192x192.png'
+    'icon-192x192.png',
+    'js/app.js',
+    'css/style.css'
 ];
 
 self.addEventListener('install', (e) => {
